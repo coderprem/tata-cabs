@@ -141,6 +141,13 @@ Row: Grand total (rides, fare, distance)
 
 ---
 
+## 📽️ Demo & Showcase
+
+🎥 **App Demo Video**: [Watch on GitHub](https://github.com/user-attachments/assets/1008b457-ee9d-4ddc-9587-c0d11950192f)  
+🔗 **LinkedIn Project Post**: [See on LinkedIn](https://www.linkedin.com/posts/coderprem_opentowork-androiddeveloper-kotlin-activity-7316476853165142017-sY6E?utm_source=share&utm_medium=member_desktop&rcm=ACoAADvE3xUBqM8yexe04EBquKaOLn-GIBRnzkA)
+
+---
+
 ## 👨‍💻 Author
 
 **Prem Kumar**  
