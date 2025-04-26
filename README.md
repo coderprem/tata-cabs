@@ -8,6 +8,13 @@ Tata Cabs is a real-world Android application built for employees working inside
 
 ---
 
+## 📽️ Demo & Showcase
+
+🎥 **App Demo Video**: [Watch on GitHub](https://github.com/user-attachments/assets/1008b457-ee9d-4ddc-9587-c0d11950192f)  
+🔗 **LinkedIn Project Post**: [See on LinkedIn](https://www.linkedin.com/posts/coderprem_opentowork-androiddeveloper-kotlin-activity-7316476853165142017-sY6E?utm_source=share&utm_medium=member_desktop&rcm=ACoAADvE3xUBqM8yexe04EBquKaOLn-GIBRnzkA)
+
+---
+
 ## 📌 Problem Statement
 
 At a power plant where ~20 drivers are hired, employees traditionally call drivers one by one to book a ride. Issues included:
@@ -138,13 +145,6 @@ Row: Grand total (rides, fare, distance)
 - [ ] Driver incentives per km  
 - [ ] Kotlin Multiplatform (KMP) integration  
 - [ ] Admin web panel for monitoring  
-
----
-
-## 📽️ Demo & Showcase
-
-🎥 **App Demo Video**: [Watch on GitHub](https://github.com/user-attachments/assets/1008b457-ee9d-4ddc-9587-c0d11950192f)  
-🔗 **LinkedIn Project Post**: [See on LinkedIn](https://www.linkedin.com/posts/coderprem_opentowork-androiddeveloper-kotlin-activity-7316476853165142017-sY6E?utm_source=share&utm_medium=member_desktop&rcm=ACoAADvE3xUBqM8yexe04EBquKaOLn-GIBRnzkA)
 
 ---
 
